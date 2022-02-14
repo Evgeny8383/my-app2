@@ -3,7 +3,7 @@ import './carousel.css';
 import {FaArrowLeft,FaArrowRight} from 'react-icons/fa'
 
 
-const PAGE_WIDTH = 450;
+const PAGE_WIDTH = 850;
 export default function Carousel({children}){
  const [pages,setPages] = useState([]);
  const [offset,setOffset] = useState(0);

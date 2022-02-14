@@ -8,6 +8,7 @@ import Header from "./header";
     return(
         <div>
             <Header />
+            
             <div className="park">
                 <img src="https://barnaul.org/local/templates/barnaul2017/static/pic/teaser.jpg" width="1300" alt="нагорный парк" />
             </div>

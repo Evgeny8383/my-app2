@@ -6,6 +6,7 @@
   max-width: 1300px;
   background-color: wheat;
   width: 100%;
+
 }
 h1 {
   margin-bottom: 0;
@@ -66,19 +67,45 @@ nav{
   align-items: center;
   justify-content: center;
   user-select: none;
+  width: 850px;
 
 }
+
 .item_1{
-  background-image: url(./assets/00_brn.jpg);
+  background-image: url(./assets/00_brn.jpg) ;
+  background-repeat: no-repeat;
+  background-size: 850,500;
 }
 .item_2{
   background-image: url(./assets/20_brn.jpg);
+  background-size: 850px,500px;
 }
 .item_3{
   background-image: url(./assets/270ee13aaea2e9649a5c89327f3e8c56.jpg);
+  background-size: 850px,500px;
+}
+.item_4{
+  background-image: url(./assets/50407.jpg);
+  background-size: 850px,500px;
+}
+.item_5{
+  background-image: url(./assets/53397.jpg);
+  background-size: 850px,500px;
+}
+.item_6{
+  background-image: url(./assets/Barnaul_Skyline_2007.jpg);
+  background-size: 850px,500px;
+
+}
+.item_7{
+  background-image: url(./assets/DSC_2231.jpg);
+  background-size: 850px,500px;
+  
+
 }
 .wrapper{
   margin-top: 40px;
+  margin-left: 200px;
   margin-bottom: 50px;
 }
 
