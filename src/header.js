@@ -22,9 +22,9 @@ export default function Header(){
      <div>
         <nav>
        <Link to="/">Главная</Link>|{" "}
-       <Link to="mostPop">Горная Аптека</Link>|{" "}
-       <Link to="others"> Достопримечательности Барнаула</Link>|{" "}
-       <Link to="gallery">Фото Барнаула</Link>
+       <Link to="/mostPop">Горная Аптека</Link>|{" "}
+       <Link to="/others"> Достопримечательности Барнаула</Link>|{" "}
+       <Link to="/gallery">Фото Барнаула</Link>
      </nav>
         </div>
      </div>
